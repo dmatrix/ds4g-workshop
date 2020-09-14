@@ -1,7 +1,7 @@
 ### Setup your conda environment for Jupyter and use MLflow
 1. conda create --name jupter-mlflow
 2. conda activate jupter-mlflow
-3. pip install -r requirements.txt
+3. pip install -r jupyter_requirements.txt
 4. python -m ipykernel install --user --name=mlflow
 4. jupyter notebook &
 
