@@ -1,4 +1,4 @@
-### Setup your conda environment for Jupyter and use MLflow
+### Setup your conda environment for Jupyter Lab and MLflow
 1. conda create --name jupyter-mlflow
 2. conda activate jupyter-mlflow
 3. pip install -r jupyter_requirements.txt
@@ -6,7 +6,7 @@
 4. jupyter lab &
 
 ### PREREQUISTES
-* pip/pip3 or conda and Python 3 installed
+* Python 3, pip, and conda pre installed
 * Knowledge on how to use conda
 * Knowledge of Python 3 and programming in general
 * Preferably a UNIX-based, fully-charged laptop with 8-16 GB, with a Chrome or Firefox browser
