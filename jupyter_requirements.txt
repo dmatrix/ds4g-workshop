@@ -2,4 +2,4 @@ mlflow
 pandas
 scikit-learn
 ipykernel
-jupyter
+jupyterlab
