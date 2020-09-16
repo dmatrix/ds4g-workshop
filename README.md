@@ -10,12 +10,12 @@ accelerating the ML lifecycle for organizations of any size.
 In this introductory workshop, partly lecture and partly hands-on tutorial, we will cover concepts and motivations
 behind MLFlow, cover its four components, and work through a simple example notebook. 
 
-## Goal and Objective
+### Goal and Objective
 Aimed at beginner or intermediate level, this workshop aims to introduce a data scientist or ML developer in how you 
 leverage MLflow as a platform to track experiments, package projects to reproduce runs, use model flavors to deploy in diverse environments, 
 and manage models in a central repository for sharing.
 
-## What you will learn
+### What you will learn
 
 Understand the four main components of open source MLflow——MLflow Tracking, MLflow Projects, MLflow Models, and Model Registry—and how each compopnent helps address challenges of the ML lifecycle.
  * [MLflow Tracking](https://mlflow.org/docs/latest/tracking.html) to record and query experiments: code, data, config, and results.
@@ -24,7 +24,8 @@ Understand the four main components of open source MLflow——MLflow Tracking, 
  * [Model Registry](https://mlflow.org/docs/latest/model-registry.html) for collaborative model lifecycle management
  * [MLflow UI](https://mlflow.org/docs/latest/tracking.html#tracking-ui) to visually compare and contrast experimental runs with different tuning parameters and evaluate metrics
 
-### PREREQUISTES
+### Prerequisites
+
 * Python 3, pip, and conda pre installed
 * Knowledge on how to use conda
 * Knowledge of Python 3 and programming in general
@@ -35,8 +36,8 @@ Understand the four main components of open source MLflow——MLflow Tracking, 
  * pandas and Numpy
 * Loads of virtual laughter, curiosity, and a sense of humor ... :-)
 
-### How Get the Workshop Material
----------------------------------
+### How to get the Workshop Material
+------------------------------------
 
 1. Familiarity with git is important so that you can get all the material easily during the tutorial and
 workshop as well as continue to work on in your free time, after the session is over.
@@ -59,18 +60,7 @@ workshop as well as continue to work on in your free time, after the session is 
 
 ![](images/colab_notebook.png)
 
-### PREREQUISTES
-* Python 3, pip, and conda pre installed
-* Knowledge on how to use conda
-* Knowledge of Python 3 and programming in general
-* Preferably a UNIX-based, fully-charged laptop with 8-16 GB, with a Chrome or Firefox browser
-* Familiarity with GitHub, git, and an account on Github
-* Some knowledge of Machine Learning concepts, libraries, and frameworks
- * scikit-Learn
- * pandas and Numpy
-* Loads of virtual laughter, curiosity, and a sense of humor ... :-)
-
-### RESOURCES
+### Resources
 
 1. How to use a [conda environment](https://medium.com/@nrk25693/how-to-add-your-conda-environment-to-your-jupyter-notebook-in-just-4-steps-abeab8b8d084) with Jupyter notebook 
 2. How to install and use [Jupter Lab](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html)
