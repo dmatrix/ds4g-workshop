@@ -5,6 +5,10 @@
 4. python -m ipykernel install --user --name=mlflow
 4. jupyter lab &
 
+### Setup for Google Colab and MLflow
+1. Sign up for [Google Colab](https://colab.research.google.com/])
+2. 
+
 ### PREREQUISTES
 * Python 3, pip, and conda pre installed
 * Knowledge on how to use conda
