@@ -7,7 +7,12 @@
 
 ### Setup for Google Colab and MLflow
 1. Sign up for [Google Colab](https://colab.research.google.com/])
-2. 
+2. Select the **GitHub** tab
+3. Insert the GitHub Repo URL: https://github.com/dmatrix/ds4g-workshop/
+4. Select the ``colab_run_forecast_model.ipynb`` Notebook
+5. Run with the MLflow!
+
+![](images/colab_notebook.png)
 
 ### PREREQUISTES
 * Python 3, pip, and conda pre installed
