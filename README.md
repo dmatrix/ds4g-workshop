@@ -1,4 +1,5 @@
 
+![](images/dssg.jpg)
 ## Introduction to MLflow: Machine Learning Life Cycle Management Platform
 
 Machine Learning (ML) development brings many new complexities beyond the traditional software development lifecycle. Unlike in traditional software development, ML developers want to try multiple algorithms, tools and parameters to get the best results, and they need to track this information to reproduce work. In addition, developers need to use many distinct systems to productionize models.
