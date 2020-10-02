@@ -53,7 +53,7 @@ workshop as well as continue to work on in your free time, after the session is 
 4. jupyter lab &
 
 ### Setup for Google Colab and MLflow
-1. Sign up for [Google Colab](https://colab.research.google.com/])
+1. Sign up for [Google Colab](https://colab.research.google.com/)
 2. Select the **GitHub** tab
 3. Insert one of the GitHub Repo URL: 
     * Your cloned github URL or `https://github.com/dmatrix/ds4g-workshop/`
