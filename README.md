@@ -56,8 +56,7 @@ workshop as well as continue to work on in your free time, after the session is 
 1. Sign up for [Google Colab](https://colab.research.google.com/])
 2. Select the **GitHub** tab
 3. Insert one of the GitHub Repo URL: 
-    * Your cloned github URL
-    * https://github.com/dmatrix/ds4g-workshop/
+    * Your cloned github URL or `https://github.com/dmatrix/ds4g-workshop/`
 4. Select the ``colab_run_forecast_model.ipynb`` Notebook
 5. Run with the MLflow!
 
