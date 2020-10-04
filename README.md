@@ -51,9 +51,10 @@ workshop as well as continue to work on in your free time, after the session is 
 3. `conda activate jupyter-mlflow`
 4. `conda install pip jupyterlab`
 5. `pip install -r jupyter_requirements.txt`
+6. Run `mlflow` to check that MLflow's was correctly installed (usage instructions should appear)
 6. `python -m ipykernel install --user --name=mlflow`
 7. `jupyter lab &`
-8. Open the `notebooks/run_weather_forecast.ipynb` notebook. 
+8. Open the `notebooks/run_weather_forecast.ipynb` notebook
 
 ### Setup for Google Colab and MLflow
 1. Sign up for [Google Colab](https://colab.research.google.com/) (Google account required)
