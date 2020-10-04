@@ -33,8 +33,8 @@ Understand the four main components of open source MLflow—MLflow Tracking, MLf
 * Preferably a UNIX-based, fully-charged laptop with 8-16 GB, with a Chrome or Firefox browser
 * Familiarity with GitHub, git, and an account on Github
 * Some knowledge of Machine Learning concepts, libraries, and frameworks
- * scikit-Learn
- * pandas and Numpy
+   * scikit-Learn
+   * pandas and Numpy
 * Loads of virtual laughter, curiosity, and a sense of humor ... :-)
 
 ### How to get the Workshop Material
@@ -43,17 +43,21 @@ Understand the four main components of open source MLflow—MLflow Tracking, MLf
 1. Familiarity with git is important so that you can get all the material easily during the tutorial and
 workshop as well as continue to work on in your free time, after the session is over.
 
-```git clone git@github.com:dmatrix/ds4g-workshop.git or git clone https://github.com/dmatrix/ds4g-workshop.git```
+```git clone https://github.com/dmatrix/ds4g-workshop.git```
 
 ### Setup your conda environment for Jupyter Lab and MLflow
-1. conda create --name jupyter-mlflow
-2. conda activate jupyter-mlflow
-3. pip install -r jupyter_requirements.txt
-4. python -m ipykernel install --user --name=mlflow
-4. jupyter lab &
+1. `cd ds4g-workshop`
+2. `conda create --name jupyter-mlflow`
+3. `conda activate jupyter-mlflow`
+4. `conda install pip jupyterlab`
+5. `pip install -r jupyter_requirements.txt`
+6. Run `mlflow` to check that MLflow's was correctly installed (usage instructions should appear)
+6. `python -m ipykernel install --user --name=mlflow`
+7. `jupyter lab &`
+8. Open the `notebooks/run_weather_forecast.ipynb` notebook
 
 ### Setup for Google Colab and MLflow
-1. Sign up for [Google Colab](https://colab.research.google.com/)
+1. Sign up for [Google Colab](https://colab.research.google.com/) (Google account required)
 2. Select the **GitHub** tab
 3. Insert one of the GitHub Repo URL: 
     * Your cloned github URL or `https://github.com/dmatrix/ds4g-workshop/`
